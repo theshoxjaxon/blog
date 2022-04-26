@@ -194,7 +194,8 @@ img {
   .header__nav {
     display: flex;
     justify-content: space-between;
-    margin: 0px auto;
+    margin: 0px;
+    margin-right: 13px;
   }
   .instruction__container {
     display: flex;
